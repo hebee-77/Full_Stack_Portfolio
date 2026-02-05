@@ -37,7 +37,7 @@
                </div>
                <div>
                  <p className="font-medium">Email</p>
-                 <p className="text-muted-foreground">hebee@example.com</p>
+                 <p className="text-muted-foreground">hebeectr2004@gmail.com</p>
                </div>
              </div>
              <div className="flex items-center gap-4">
@@ -46,7 +46,7 @@
                </div>
                <div>
                  <p className="font-medium">Location</p>
-                 <p className="text-muted-foreground">San Francisco, CA</p>
+                 <p className="text-muted-foreground">Chittoor, Andhra Pradesh</p>
                </div>
              </div>
              <div className="flex items-center gap-4">
@@ -55,7 +55,7 @@
                </div>
                <div>
                  <p className="font-medium">Phone</p>
-                 <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                 <p className="text-muted-foreground">+91 6302514642</p>
                </div>
              </div>
  
